@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "d1814a9a7ea77ed9",
+    "type": "split",
+    "children": [
+      {
+        "id": "624d04362eda9f21",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10_基础编辑技能之Segment Mode.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9367ad658d8208e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a557fd67eedc2426",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b40c94dff689022c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa84e15f6b0c0062",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "584399a9d5f70ae7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f24d02420ac7345",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f808a8ec2a6e6bb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10_基础编辑技能之Segment Mode.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "624d04362eda9f21",
+  "lastOpenFiles": [
+    "10_基础编辑技能之Segment Mode.md",
+    "pic/10/segment_mode_icon.png",
+    "09_基础编辑技能之Trim Mode.md",
+    "pic/09/command_palette_mode.png",
+    "pic/09/keyboard_in_setting.png",
+    "pic/09/trim_mode_button.png",
+    "08_基础编辑技能之源-录制模式.md"
+  ]
+}
